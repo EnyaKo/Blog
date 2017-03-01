@@ -26,5 +26,6 @@ I am a student major in computer science.
 
 
 ### Experience
-- Data Mining Project: Chat Box with Different Characteristics
+- Data Mining Project: 
+    - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics
 
