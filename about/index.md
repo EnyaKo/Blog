@@ -7,8 +7,7 @@ comments: false
 ---
 
 **Hsin Tung Ko (Enya Ko)**
-<center> Data Journalist with Arts and Literature </center>
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> A Data Journalist with Great Interest in Arts and Literature </center>
 
 ### About
 I am a student major in computer science.
