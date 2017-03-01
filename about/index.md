@@ -16,7 +16,7 @@ I am a student major in computer science.
     https://raw.githubusercontent.com/EnyaKo/Blog/gh-pages/assets/img/enya01.jpg
     https://raw.githubusercontent.com/EnyaKo/Blog/gh-pages/assets/img/enya02.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Photos of Enya Ko" cols=2 %}
 
 ### Skills / Qualifications
 * Competent in C/C++
