@@ -23,7 +23,9 @@ I am a student major in computer science.
 * Familiar with Java and Python
 
 ### Education
-
+- 2013 - Present
+- [National Cheng Kung University](http://web.ncku.edu.tw/bin/home.php?Lang=en)
+- [BA, Computer Science and Information Engineering](http://www.csie.ncku.edu.tw/ncku_csie/?lang=en)
 
 ### Experience
 - Data Mining Project: 
