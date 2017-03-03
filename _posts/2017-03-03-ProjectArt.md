@@ -8,4 +8,6 @@ tag:
 comments: true
 ---
 
-Under construction
+**Note: the site is still under construction**
+
+My insterest in art emerge during high school. [.....] I have enrolled in many courses related to urban designing.
