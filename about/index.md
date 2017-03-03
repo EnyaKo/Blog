@@ -10,7 +10,7 @@ comments: false
 <center> A Data Journalist with Great Interest in Arts and Literature </center>
 
 ### About
-I am a student major in computer science.
+I am a student majoring in computer science.
 
 {% capture images %}
     https://raw.githubusercontent.com/EnyaKo/Blog/gh-pages/assets/img/enya01.jpg
