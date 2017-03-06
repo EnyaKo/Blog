@@ -35,11 +35,10 @@ I am a student majoring in computer science.
         - C++ Candy Crush
     - Projects
         - [2017-2018] XXXX (Senion Project)           
-        - [2017] Data Mining Project: Chatbot    
+        - [2017] Data Mining Project: Chatbot
             - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics    
-        - [2016] Microcomputer System Project: Christmas Tree & Piano        
-        - [2016] Medical Application Project:        
-            - Android App
+        - [2016] Microcomputer System Project: Christmas Tree & Piano        
+        - [2016] Medical Application Project:
 - Design & Art Work
     - Paintings
     - Urban Planning Projects
