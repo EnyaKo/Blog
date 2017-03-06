@@ -28,6 +28,30 @@ I am a student majoring in computer science.
     - [BA, Computer Science and Information Engineering](http://www.csie.ncku.edu.tw/ncku_csie/?lang=en)
 
 ### Experience
-- Data Mining Project: 
-    - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics
+- Computer Science
+    - Games
+        - Java Rockman
+        - C++ 2014
+        - C++ Candy Crush
+    - Projects
+        - [2017-2018] XXXX (Senion Project)
+        - [2017] Data Mining Project: Chatbot
+            - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics
+        - [2016] Microcomputer System Project: Christmas Tree & Piano
+        - [2016] Medical Application Project: 
+            - Android   
+- Design & Art Work
+    - Paintings
+    - Urban Planning Projects
+        - NCKU Chinese Literature Department
+        - Imaginary Urban
+        - Urban Entrance Design
+        - Anpin Reconstrution Design
+    - Architecture Project: Waterfall Case Study
+- Culture & Literature
+    - Chinese
+    - English
+    - Japanese
+    - Spanish
+
 
