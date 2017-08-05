@@ -37,7 +37,8 @@ I am a student majoring in computer science.
         - [2017-2018] eeglab (Senior Project)           
         - [2017] Data Mining Project: Chatbot with selective characteristics 
             - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics    
-        - [2016] Microcomputer System Project: Christmas Tree & Piano        
+        - [2016] Microcomputer System Project: Christmas Tree & Piano    
+            - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: Microprocessor Principles and Application--Giant Piano for Christmas
         - [2016] Medical Application Project: 
 - Design & Art Work
     - Paintings
