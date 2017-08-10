@@ -75,7 +75,7 @@ I am a student majoring in computer science.
 | Year        | Course                                     | Grade |
 |-------------|--------------------------------------------|-------|
 | 2017.Spring | Selected Works of English Prose            | 90%   |
-| 2017.Spring | European Literature(translated in English) | 87%   |
+| 2017.Spring | European Literature(translated in English) | 87%   | 
 
 - Japanese
 
