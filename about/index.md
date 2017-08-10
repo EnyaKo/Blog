@@ -56,28 +56,28 @@ I am a student majoring in computer science.
             - <a href="https://github.com/EnyaKo/2048">2048</a>: Game 2048 in C++ 
         - [2015] C++ Sudoku
             - <a href="https://github.com/EnyaKo/Sudoku">Sudoku</a>: Game Sudoku in C++ 
-- Design & Art Work
-    - Paintings
-        - Water Painting
-        - Oil Painting
-        - Sketches
-    - Urban Planning Projects
-        - Imaginary Urban Design
-        - Urban Entrance Design
-        - Anpin Reconstruction Design
-    - Architecture Project
-        - NCKU Chinese Literature Department Case Study
-- History & Literature
-    - English, Japanese, Spanish, and Chinese
 
-English
+### Design & Art Work
+- Paintings
+    - Water Painting
+    - Oil Painting
+    - Sketches
+- Urban Planning Projects
+    - Imaginary Urban Design
+    - Urban Entrance Design
+    - Anpin Reconstruction Design
+- Architecture Project
+    - NCKU Chinese Literature Department Case Study
+
+### History & Literature
+- English
 
 | Year        | Course                                     | Grade |
 |-------------|--------------------------------------------|-------|
 | 2017.Spring | Selected Works of English Prose            | 90%   |
 | 2017.Spring | European Literature(translated in English) | 87%   |
 
-Japanese
+- Japanese
 
 | Year        | Course                                        | Grade |
 |-------------|-----------------------------------------------|-------|
@@ -86,14 +86,14 @@ Japanese
 | 2015.Summer | TUJP Summer School in Japan Tohoku University | Pass  |
 | 2015.Fall   | Elective - Japanese 3                         | 76%   |
   
-Spanish
+- Spanish
 
 | Year        | Course               | Grade |
 |-------------|----------------------|-------|
 | 2016.Fall   | Elective - Spanish 1 | 86%   |
 | 2017.Spring | Elective - Spanish 2 | 78%   |
 
-Chinese
+- Chinese
 
 | Year        | Course                                                       | Grade |
 |-------------|--------------------------------------------------------------|-------|
