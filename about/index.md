@@ -34,7 +34,8 @@ I am a student majoring in computer science.
         - C++ 2014
         - C++ Candy Crush
     - Projects
-        - [2017-2018] eeglab (Senior Project)           
+        - [2017-2018] eeglab (Senior Project) 
+            - <a href= "https://github.com/EnyaKo/eeglab">eeglab</a>: Judge If your Are a Musician by Your EEG Signal 
         - [2017] Data Mining Project: Chatbot with selective characteristics 
             - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics    
         - [2016] Microcomputer System Project: Christmas Tree & Piano    
