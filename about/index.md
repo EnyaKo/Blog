@@ -7,7 +7,7 @@ comments: false
 ---
 
 **Hsin Tung Ko (Enya Ko)**
-<center> A Data Journalist with Great Interest in Arts and Literature </center>
+<center> A Data Analyst with Great Interest in Arts and Literature </center>
 
 ### About
 I am a student majoring in computer science.
