@@ -29,12 +29,16 @@ I am a student majoring in computer science.
 
 ### Experience
 - Computer Science
-    - Games
-        - Java Rockman
-        - C++ 2014
-        - C++ Candy Crush  
-    - Projects    
-        
+    - Games  
+        - Java Rockman  
+        - C++ 2014  
+        - C++ Candy Crush    
+    - Projects
+        - [2017-2018] eeglab (Senior Project)
+            - <a href="https://github.com/EnyaKo/eeglab">eeglab</a>: Judge If your Are a Musician by Your EEG Signal 
+        - [2017] Data Mining Project: Chatbot with selective characteristics 
+        - [2016] Microcomputer System Project: Christmas Tree & Piano  
+        - [2016] Medical Application Project:
 - Design & Art Work
     - Paintings
     - Urban Planning Projects
