@@ -28,17 +28,18 @@ I am a student majoring in computer science.
     - [BA, Computer Science and Information Engineering](http://www.csie.ncku.edu.tw/ncku_csie/?lang=en)
 
 ### Experience
-- Computer Science
-    - Games  
-        - Java Rockman  
-        - C++ 2014  
-        - C++ Candy Crush    
+- Computer Science 
     - Projects
         - [2017-2018] eeglab (Senior Project)
             - <a href="https://github.com/EnyaKo/eeglab">eeglab</a>: Judge If your Are a Musician by Your EEG Signal 
         - [2017] Data Mining Project: Chatbot with selective characteristics 
+            - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Different Characteristics  
         - [2016] Microcomputer System Project: Christmas Tree & Piano  
+            - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: Microprocessor Principles and Application--Giant Piano for Christmas
         - [2016] Medical Application Project:
+        - Java Rockman  
+        - C++ 2014  
+        - C++ Candy Crush 
 - Design & Art Work
     - Paintings
     - Urban Planning Projects
