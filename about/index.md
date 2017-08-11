@@ -40,22 +40,22 @@ I am a student majoring in computer science.
             - Maintain system stability and efficiency for Rural Education
             - Open-Source Learning Platform: Ezgo
     - Projects
-        - [2017] eeglab (Senior Project)
-            - <a href="https://github.com/EnyaKo/eeglab">eeglab</a>: Evaluate Music capacity by EEG Signal 
-        - [2016] Data Mining Project: Chatbot with selective characteristics 
-            - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: Chat Box with Selective Characteristics  
-        - [2015] Microcomputer System Project: Christmas Tree & Piano  
-            - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: Microprocessor Principles and Application--Giant Piano for Christmas
+        - [2017] eeglab : Evaluate Music capacity by EEG Signal
+            - <a href="https://github.com/EnyaKo/eeglab">eeglab</a>: A portable bandage to recieve EEG signal, and analyze them on an offline app. A volume improvement of a buck of EEG equipment. 
+        - [2016] Data Mining Project: A Chinese echobot with selective characteristics 
+            - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: (1) Train the bot (2) Response Flow: Input a sentence -> Jiaba cut it into fragments -> Use word2vec to find several synonymous -> Give Big5 parameters to set a characteristic -> filter the synonymous given to the characteristic -> From the rest of the synonymous, use bigram to produce the best grammatical-formed sentence(according to its training) -> Ouput the new sentence 
+        - [2015] Microcomputer System Project: Christmas Tree & Piano
+            - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: Arduino Uno as launchpad, the giant piano plays a note and lights up a picture on a Christmas tree when a key is stepped. There are three extra keys, with the following functions for each: That play a Christmas song. That select a new Christmas song for the first extra key to play. That change the instrument that play the song and notes. 
         - [2016] Medical Application Project
             - <a href="https://github.com/EnyaKo/Medical-App">Medical-App</a>: An app for family members to help them keep track of their elder parents' health condition, while they can still work and live their living on schedule.
         - [2015] Java Rockman  
-            - <a href="https://github.com/EnyaKo/Rockman">Rockman</a>: Rockman Game 
+            - <a href="https://github.com/EnyaKo/Rockman">Rockman</a>: Rockman Game in Java, including selecting a character and fighting a boss.  
         - [2015] C++ Candy Crush
             - <a href="https://github.com/EnyaKo/CandyCrush">CandyCrush</a>: Game CandyCrush in C++ 
         - [2015] C++ 2048
             - <a href="https://github.com/EnyaKo/2048">2048</a>: Game 2048 in C++ 
         - [2015] C++ Sudoku
-            - <a href="https://github.com/EnyaKo/Sudoku">Sudoku</a>: Game Sudoku in C++ 
+            - <a href="https://github.com/EnyaKo/Sudoku">Sudoku</a>: A 12*12 broad with black spots that no numbers allowed to filled in. 
 
 ### Design & Art Work
 - Paintings
