@@ -66,7 +66,7 @@ I am a student majoring in computer science.
     - Imaginary Urban Design
     - Urban Entrance Design
     - Anpin Reconstruction Design
-- Architecture Project
+- Architecture Case Study
     - NCKU Chinese Literature Department Case Study
 
 ### Humanities & Literature
