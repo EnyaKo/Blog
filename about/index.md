@@ -69,7 +69,7 @@ I am a student majoring in computer science.
 - Architecture Project
     - NCKU Chinese Literature Department Case Study
 
-### History & Literature
+### Humanities & Literature
 - English
 
 | Year        | Course                                     | Grade |
