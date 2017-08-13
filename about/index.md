@@ -63,11 +63,12 @@ I am a student majoring in computer science.
     - Oil Painting
     - Sketches
 - Urban Planning Projects
-    - Imaginary Urban Design
-    - Urban Entrance Design
-    - Anpin Reconstruction Design
+    - Imaginary Urban Design : Citi Immaginarie 
+    - Urban Entrance Design : Entrance Design of Tainan City 
+    - Urban Street Design : Anpin Reconstruction Design
 - Architecture Case Study
     - NCKU Chinese Literature Department Case Study
+    - Frank Lloryd Wright Fallingwater Case Study
 
 ### Humanities & Literature
 - English
