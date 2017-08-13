@@ -68,7 +68,7 @@ I am a student majoring in computer science.
     - Urban Street Design : Anpin Reconstruction Design
 - Architecture Case Study
     - NCKU Chinese Literature Department Case Study
-    - Frank Lloryd Wright Fallingwater Case Study
+    - Frank Lloyd Wright Fallingwater Case Study
 
 ### Humanities & Literature
 - Chinese(native language)
