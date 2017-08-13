@@ -71,6 +71,14 @@ I am a student majoring in computer science.
     - Frank Lloryd Wright Fallingwater Case Study
 
 ### Humanities & Literature
+- Chinese(native language)
+
+| Year        | Course                                                       | Grade |
+|-------------|--------------------------------------------------------------|-------|
+| 2014.Soring | Architecture History - The History of Architecture in Taiwan | 77%   |
+| 2017.Spring | Art History - History of Taiwan Art 2                        | 94%   |
+| 2017.Spring | Chinese Literature - Select Reading of Plays                 | 91%   |   
+
 - English
 
 | Year        | Course                                     | Grade |
@@ -94,13 +102,6 @@ I am a student majoring in computer science.
 | 2016.Fall   | Elective - Spanish 1 | 86%   |
 | 2017.Spring | Elective - Spanish 2 | 78%   |
 
-- Chinese
-
-| Year        | Course                                                       | Grade |
-|-------------|--------------------------------------------------------------|-------|
-| 2014.Soring | Architecture History - The History of Architecture in Taiwan | 77%   |
-| 2017.Spring | Art History - History of Taiwan Art 2                        | 94%   |
-| 2017.Spring | Chinese Literature - Select Reading of Plays                 | 91%   |   
 
 ### Contact
 email: enya530@gmail.com
