@@ -40,7 +40,7 @@ I am a student majoring in computer science.
             - Maintain system stability and efficiency for Rural Education
             - Open-Source Learning Platform: Ezgo
     - Projects
-        - [2017] eeglab : Evaluate Music capacity by EEG Signal
+        - [2017] eeglab : Evaluate Music capability by EEG Signal
             - <a href="https://github.com/EnyaKo/eeglab">eeglab</a>: A portable bandage to recieve EEG signal, and analyze them on an offline app. A volume improvement of a buck of EEG equipment. 
         - [2016] Data Mining Project: A Chinese echobot with selective characteristics 
             - <a href="https://github.com/Lee-W/vivid-bot">Vivid-bot</a>: (1) Train the bot (2) Response Flow: Input a sentence -> Jiaba cut it into fragments -> Use word2vec to find several synonymous -> Give Big5 parameters to set a characteristic -> filter the synonymous given to the characteristic -> From the rest of the synonymous, use bigram to produce the best grammatical-formed sentence(according to its training) -> Ouput the new sentence 
@@ -75,7 +75,7 @@ I am a student majoring in computer science.
 
 | Year        | Course                                                       | Grade |
 |-------------|--------------------------------------------------------------|-------|
-| 2014.Soring | Architecture History - The History of Architecture in Taiwan | 77%   |
+| 2014.Spring | Architecture History - The History of Architecture in Taiwan | 77%   |
 | 2017.Spring | Art History - History of Taiwan Art 2                        | 94%   |
 | 2017.Spring | Chinese Literature - Select Reading of Plays                 | 91%   |   
 
