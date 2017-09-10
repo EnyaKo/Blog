@@ -23,9 +23,9 @@ comments: true
     - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: An Installation Art for Christmas--A Giant Piano
     - A giant piano that plays notes, lights up pictures on a Christmas Tree, and plays christmas songs. More than a person to jump on and play the giant piano is encouraged, which is much more fun and enjoyable. I did much of all the programming, and was the designer of the giant piano, including the apperance design of the piano and the graphic design of the lighting pictures. 
 - [2015] JAVA Game Design Project:
-    - <a href="https://github.com/EnyaKo/Rockman">Rockman</a>: Rockman Computer Game
+    - <a href="https://github.com/EnyaKo/Rockman">Rockman</a>: A Rockman Computer Game
     - A Rockman computer game written in Java, which I was the designer and the programmer of the boss of the game.
 - [2015] C++ Game Design Individual Projects:
-    - <a href="https://github.com/EnyaKo/CandyCrush">CandyCrush</a>: CandyCrush Game
-    - <a href="https://github.com/EnyaKo/2048">2048</a>: 2048 Game
-    - <a href="https://github.com/EnyaKo/Sudoku">Rockman</a>: Advanced Sudoku Game with a 12*12 Board
+    - <a href="https://github.com/EnyaKo/CandyCrush">CandyCrush</a>: A CandyCrush Game
+    - <a href="https://github.com/EnyaKo/2048">2048</a>: A 2048 Game
+    - <a href="https://github.com/EnyaKo/Sudoku">Sudoku</a>: An Advanced Sudoku Game with a 12*12 Board
