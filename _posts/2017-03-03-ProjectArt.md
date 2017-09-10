@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Art Projects"
+title:  "Art Works"
 date:   2017-03-03
 excerpt: "All of my art works"
 project: true
@@ -10,4 +10,10 @@ comments: true
 
 **Note: the site is still under construction**
 
-My insterest in art emerge during high school. [.....] I have enrolled in many courses related to urban designing.
+# 3D Modeling
+- 3D Max
+
+# Painting
+- Oil Painting
+- Water Painting
+- Urban Sketches and Architecture Notes
