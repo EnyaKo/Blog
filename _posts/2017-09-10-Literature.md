@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Art Works"
+title:  "Literature"
 date:   2017-03-03
 excerpt: "All of my art works"
 project: true
