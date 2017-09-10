@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Literature"
+title:  "Literature and Creative Writing"
 date:   2017-03-03
 excerpt: "All of my art works"
 project: true
