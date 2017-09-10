@@ -8,7 +8,6 @@ tag:
 comments: true
 ---
 
-**Note: the site is still under construction**
 
 # Data Analysis
 - [2017] EEG Brainwave Project:
