@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "UrbanPlanning"
+title:  "Architecture Design and Urban Planning"
 date:   2017-08-05
-excerpt: "My urban planning project"
+excerpt: "My Urban Planning Projects"
 project: true
 tag:
 comments: true
 ---
 
-# Project 01
+# Citi Immaginarie
 haha
 
-# Project 02
+# Entrance Design of Tainan City
 yes!
+
+# Anpin Market Architecture Design
