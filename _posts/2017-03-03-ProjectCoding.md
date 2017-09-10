@@ -20,7 +20,7 @@ comments: true
     - <a href="https://github.com/EnyaKo/Medical-App">Medical-App</a>: A Medical Android App and a GSensor Wristband to Keep Track of User's Elder Parents' Health Condition
     - The medical app analyzes the recieved data, sent by the wristband via bluetooth, and shows the result of one's activeness a day. I was responsible for building a mathematical model of the activeness calculation, by analysing data sets in R. I did the data visualization , while assisting my teammates building the database for medicine information. 
 - [2015] Art and Microcomputer System Project:
-    - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: An Installation Art for Christmas--A Giant Piano
+    - <a href="https://github.com/EnyaKo/PiaNo-Jump">PiaNo-Jump</a>: An Installation Art for Christmas--A Giant Piano
     - A giant piano that plays notes, lights up pictures on a Christmas Tree, and plays christmas songs. More than a person to jump on and play the giant piano is encouraged, which is much more fun and enjoyable. I did much of all the programming, and was the designer of the giant piano, including the apperance design of the piano and the graphic design of the lighting pictures. 
 - [2015] JAVA Game Design Project:
     - <a href="https://github.com/EnyaKo/Rockman">Rockman</a>: A Rockman Computer Game
