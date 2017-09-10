@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Architecture Design and Urban Planning"
+title:  "Architecture and Urban Planning"
 date:   2017-08-05
 excerpt: "My Urban Planning Projects"
 project: true
